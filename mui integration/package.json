@@ -1,0 +1,32 @@
+{
+    "name": "todoapp-with-redux-and-normalized-store",
+    "version": "1.0.0",
+    "description": "A todo list app with React-Redux (with normalized store shape).",
+    "keywords": [],
+    "main": "src/index.js",
+    "dependencies": {
+        "@material-ui/core": "^4.11.2",
+        "@material-ui/icons": "^4.11.2",
+        "classnames": "^2.2.6",
+        "downshift": "3.2.7",
+        "history": "^5.0.0",
+        "markdown-to-jsx": "^7.1.0",
+        "react": "^16.8.4",
+        "react-dom": "^16.8.4",
+        "react-redux": "^5.1.2",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "^1.1.5",
+        "recharts": "^2.0.0",
+        "redux": "4.0.0"
+    },
+    "devDependencies": {
+        "@material-ui/core": "^4.11.1",
+        "@material-ui/icons": "^5.0.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
